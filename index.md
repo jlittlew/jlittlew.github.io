@@ -11,8 +11,9 @@ Formerly [Echo & Co.](https://echo.co/), [The Public Interest Network](http://pu
 - [About page](https://about.me/jesse.littlewood)
 - [Twitter](https://twitter.com/j_littlewood)
 - [Common Cause Staff Profile & Contact Information](http://www.commoncause.org/about/staff-directory/jesse-littlewood.html)
-- Email me
 
+
+### Email me:
 <form id="contactform" method="POST">
     <input type="text" name="name" placeholder="Your name"> <br />
     <input type="email" name="_replyto" placeholder="Your email"> <br />
