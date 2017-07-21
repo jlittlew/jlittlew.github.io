@@ -1,5 +1,5 @@
 ## Jesse Littlewood
-![Jesse Littlewood headshot]({{site.baseurl}}//Jesse%20retreat%20headshot_lowq.jpg)
+![Jesse Littlewood Headshot v2]({{site.baseurl}}//Jesse%20retreat%20headshot_lowq.jpg)
 
 Director of Digital with [Common Cause](https://www.commoncause.org "Common Cause"), using the internet to make American democracy truly by and for the people. Join the movement: [commoncause.org](https://www.commoncause.org "Common Cause").
 
