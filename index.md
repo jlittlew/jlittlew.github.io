@@ -11,3 +11,8 @@ Former Adjust Lecturer in Public Policy at Harvard Kennedy School of Government.
 Formerly [Echo & Co.](https://echo.co/), [The Public Interest Network](http://publicinterestgrfx.org/) and [Green Corps](http://greencorps.org/). Schooled at [Haverford](https://www.haverford.edu/).
 
 Unapologetic redhead.
+
+Connect with me
+- [About page](https://about.me/jesse.littlewood)
+- [Twitter](https://twitter.com/j_littlewood)
+- [Common Cause Staff Profile & Contact Information](http://www.commoncause.org/about/staff-directory/jesse-littlewood.html)
