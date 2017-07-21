@@ -12,8 +12,8 @@ Formerly [Echo & Co.](https://echo.co/), [The Public Interest Network](http://pu
 - [Twitter](https://twitter.com/j_littlewood)
 - [Common Cause Staff Profile & Contact Information](http://www.commoncause.org/about/staff-directory/jesse-littlewood.html)
 - Email me:
-<form action="https://formspree.io/jesse.littlewood@gmail.com">
-    <input type="text" name="name">
-    <input type="email" name="_replyto">
-    <input type="submit" value="Send">
+<form method="POST" action="http://formspree.io/jesse.littlewood@gmail.com">
+  <input name="email" placeholder="Your email" type="email">
+  <textarea name="message" placeholder="Your message"></textarea>
+  <button type="submit">Send</button>
 </form>
