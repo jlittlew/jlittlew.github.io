@@ -43,6 +43,8 @@
 *Three full-credit undergraduate seminars for the Communications department and Tisch College of Citizenship.* 
 
 - Developed unique syllabi, delivered weekly lectures, assigned and reviewed student assignments for three 13-week seminars focused on digital media, civic engagement and social change.
+- Syllabus: ["Social Media"](https://medium.com/exp50-social-media/exp50-social-media-syllabus-5583b6efff)
+- Syllabus: ["Civic Engagement in the Digtial Age"](http://excollege.tufts.edu/sites/all/themes/asbase/assets/documents/syllabi_14fall/EXP-0050.pdf)
  
 
 **Web Director, [Public Interest Network](http://publicinterestgrfx.org/)**
@@ -70,3 +72,12 @@
 **[Haverford College](https://www.haverford.edu/)** B.A. in Political Science, May 2003
 
 - [Award-winning thesis](https://scholarship.tricolib.brynmawr.edu/bitstream/handle/10066/732/2003LittlewoodJ.pdf) on political philosophy of Hannah Arendt and political practice of Saul Alinksy.
+
+## Writing, Presentations, Speaking
+
+- Presentation: "Organic Email Growth Great Emails = Big Social Change" _[BBCON 2016](https://community.blackbaud.com/blogs/71/2845)_ (presentation available upon request)
+- Presentation: "[Scaling Up Social Change](https://15ntc.sched.com/event/1z3n/scaling-up-social-change-is-the-netroots-model-for-you-15ntcscalechange)", Nonprofit Technology Conference, 2015
+- "[Scaling Up Social Change](https://issuu.com/ntenorg/docs/change_mar2014_issu_44bb7d933ccc74)" in _NTEN: Change_.
+- "[Focusing on Useful Analytics: Vanity Metrics vs. Actionable Metrics](https://litmus.com/blog/focusing-on-useful-analytics-vanity-metrics-vs-actionable-metrics)" _Litmus Blog_
+- Presentations at 2014 and 2013 Nonprofit Technology Conference
+
