@@ -20,7 +20,7 @@
 
 ***January 2016 – May 2016*** 
 
-*Crafted a new full-credit semester-long graduate seminar via the Shorenstein Center.*  
+*Crafted a new full-credit semester-long graduate seminar via the Shorenstein Center.* 
 
 - Developed a unique syllabus, “Social Change in the Digital Age.” Created and graded experiential assignments, delivered twice-weekly lectures, and mentored Kennedy School students. 
 - [(Syllabus.)](https://sites.hks.harvard.edu/syllabus/DPI-658.pdf "DPI 658 Social Change in the Digital Age")
