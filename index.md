@@ -7,8 +7,11 @@ Former Adjunct Lecturer in Public Policy at Harvard Kennedy School of Government
 
 Formerly [Echo & Co.](https://echo.co/), [The Public Interest Network](http://publicinterestgrfx.org/) and [Green Corps](http://greencorps.org/). Schooled at [Haverford](https://www.haverford.edu/).
 
+[View my resume.](jlittlew.github.io/resume-7-21-17.md
+
 ### Connect with me
 - [About page](https://about.me/jesse.littlewood)
+- [LinkedIn](https://www.linkedin.com/in/jesselittlewood/) profile
 - [Twitter](https://twitter.com/j_littlewood)
 - [Common Cause Staff Profile & Contact Information](http://www.commoncause.org/about/staff-directory/jesse-littlewood.html)
 
