@@ -1,5 +1,5 @@
 ##  Experience
-**Director of Digital, Common Cause** (*www.commoncause.org*) ***July 2015 – present*** 
+**Director of Digital, [Common Cause](http://www.commoncause.org)** ***July 2015 – present***
 *Common Cause is a nonpartisan organization dedicated to upholding the core values of American democracy. *  
 - Directs all aspects of digital communications for a national civic organization including digital campaigns, national and state affiliate websites, microsites, email program, social media and SMS program.
 - Grew list of email subscribers from 300,000 to 1 million in 18 months via entirely organic methods, dramatically increasing constituent activism, engagement and online fundraising. 
