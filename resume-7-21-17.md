@@ -32,8 +32,8 @@
 
 *Echo & Co. is a digital agency with a focus on the non-profit sector.*  
 
-- Led strategic management consulting engagements with non-profit and government clients to develop organizational digital growth plans, project briefs, impact and outcome benchmarks, staffing plans, and more, managing over $1 million in business annually. Clients included MassTech, National Parks Service, CLF.  
-- Served as Strategy and Client Lead for launch of Understood.org (winner of a Webby) directing strategy, staffing and execution of an enterprise-scale technology project. Developed client’s vision statement, measures of success and project RFP. Served as “Virtual CTO” for organization until project launch. 
+- Led strategic management consulting engagements with non-profit and government clients to develop organizational digital growth plans, project briefs, impact and outcome benchmarks, staffing plans, and more, managing over $1 million in business annually. Clients included [America's Promise Alliance](https://www.americaspromise.org/), [MassTech](http://masstech.org/), N[ational Parks Service](https://www.nps.gov/index.htm), [Conservation Law Foundation](https://www.clf.org/).  
+- Served as Strategy and Client Lead for launch of [Understood.org](https://www.understood.org/en) (winner of a [Webby](https://www.webbyawards.com/winners/2017/websites/general-website/familyparenting/understoodorg/)) directing strategy, staffing and execution of an enterprise-scale technology project. Developed client’s vision statement, measures of success and project RFP. Served as “Virtual CTO” for organization until project launch. 
 - Planned and executed website and product launches within project budgets and timelines.
  
 **Adjunct Lecturer, [Tufts University](http://www.tufts.edu)**
