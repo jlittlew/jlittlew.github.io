@@ -1,4 +1,4 @@
-### Experience
+##  Experience
 **Director of Digital, Common Cause** (*www.commoncause.org*) ***July 2015 – present*** 
 *Common Cause is a nonpartisan organization dedicated to upholding the core values of American democracy. *  
 - Directs all aspects of digital communications for a national civic organization including digital campaigns, national and state affiliate websites, microsites, email program, social media and SMS program.
@@ -44,5 +44,5 @@
  
 - ***Field Organizer (2003 – 2004)*** Created press events securing over 50 earned media hits, helping win major concessions from the cruise ship industry.
 
-### Education
+##  Education
 **Haverford College** B.A. in Political Science, 3.5 GPA **September 1999 – May 2003**  |
