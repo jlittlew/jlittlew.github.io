@@ -1,6 +1,8 @@
 ## Jesse Littlewood
 ![Jesse Littlewood Headshot v2](jlittlew.github.io/Jesse_retreat_headshot_lowq.jpg)
 
+Jesse Littlewood has over 15 years experience in the intersection of grassroots campaigns, movement building and technology. Jesse has held leadership positions at national advocacy organizations Green Corps, The Public Interest Network and Common Cause. His leadership in the field brought him to the Harvard Kennedy School of Government as a lecturer, where he designed and taught course titled "Social Change in the Digital Age." As Director of Digital with Common Cause, Jesse built and lead a team that grew the organization's membership and activist list from 250,000 to over 1 million members and supporters and raised over $4 million online from thousands of small-dollar donors.
+
 Director of Digital with [Common Cause](https://www.commoncause.org "Common Cause"), using the internet to make American democracy truly by and for the people. Join the movement: [commoncause.org](https://www.commoncause.org "Common Cause").
 
 Former Adjunct Lecturer in Public Policy at Harvard Kennedy School of Government. [(Syllabus.)](https://sites.hks.harvard.edu/syllabus/DPI-658.pdf "DPI 658 Social Change in the Digital Age")
