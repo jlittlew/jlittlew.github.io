@@ -75,9 +75,9 @@
 
 ## Writing, Presentations, Speaking
 
+- Presentation: "Email Acquisition & Fundraising" at Harvard Kennedy School [Shorenstein Center Single-Subject News Conference](https://shorensteincenter.org/single-subject-news-sites-engagement/). [Coverage.](http://www.niemanlab.org/2017/12/looking-beyond-news-for-inspiration/) (presentation available upon request)
 - Presentation: "Organic Email Growth Great Emails = Big Social Change" _[BBCON 2016](https://community.blackbaud.com/blogs/71/2845)_ (presentation available upon request)
 - Presentation: "[Scaling Up Social Change](https://15ntc.sched.com/event/1z3n/scaling-up-social-change-is-the-netroots-model-for-you-15ntcscalechange)", Nonprofit Technology Conference, 2015
 - "[Scaling Up Social Change](https://issuu.com/ntenorg/docs/change_mar2014_issu_44bb7d933ccc74)" in _NTEN: Change_.
 - "[Focusing on Useful Analytics: Vanity Metrics vs. Actionable Metrics](https://litmus.com/blog/focusing-on-useful-analytics-vanity-metrics-vs-actionable-metrics)" _Litmus Blog_
 - Presentations at 2014 and 2013 Nonprofit Technology Conference
-
