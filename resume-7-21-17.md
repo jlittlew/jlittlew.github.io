@@ -7,7 +7,7 @@
 
 - Directs all aspects of digital communications for a national civic organization including digital campaigns, national and state affiliate websites, microsites, email program, social media and SMS program.
 - Grew list of email subscribers from 300,000 to 1 million in 18 months via entirely organic methods, dramatically increasing constituent activism, engagement and online fundraising. 
-- Raised over $4 million in small-dollar online contributions; increased FY17 contributions 300% over FY16. Generated 25,000 new donors. Increased ongoing monthly sustainer giving by 500%.
+- Raised over $5 million in small-dollar online contributions; increased FY17 contributions 300% over FY16. Generated 25,000 new donors. Increased ongoing monthly sustainer giving by 500%.
 - Direct management of four staff: hiring, promoting and developing capacities. 
 - Cross-departmental coordination with Communications, Development, Program and 35 states offices.
 - Developed a new online-to-offline activist pipeline, growing the grassroots political power of the organization; engaging thousands of activists in local, offline democracy reform campaigns.
