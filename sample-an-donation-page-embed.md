@@ -1,4 +1,4 @@
-## This is a sample Action Network donation embedded on another website
+## This is a sample Action Network action embedded on another website
 
 
-<script src='https://actionnetwork.org/widgets/v3/fundraising/common-cause?format=js&source=widget&style=full'></script><div id='can-fundraising-area-common-cause' style='width: 600px'><!-- this div is the target for our HTML insertion --></div>
+<link href='https://actionnetwork.org/css/style-embed-v3.css' rel='stylesheet' type='text/css' /><script src='https://actionnetwork.org/widgets/v3/petition/we-must-end-gerrymandering-now?format=js&source=website'></script><div id='can-petition-area-we-must-end-gerrymandering-now' style='width: 100%'><!-- this div is the target for our HTML insertion --></div>
