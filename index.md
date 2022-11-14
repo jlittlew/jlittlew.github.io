@@ -25,3 +25,4 @@ Jesse Littlewood has over 15 years’ experience in the intersection of movement
     var contactform =  document.getElementById('contactform');
     contactform.setAttribute('action', '//formspree.io/' + 'jesse.littlewood' + '@' + 'gmail' + '.' + 'com');
 </script>
+<a rel="me" href="https://mastodon.online/@jlittlewood">Mastodon</a>
