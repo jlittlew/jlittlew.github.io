@@ -8,9 +8,7 @@ Jesse Littlewood has 25 years of experience in the intersection of movement buil
 ### Connect with me
 - [About page](https://about.me/jesse.littlewood)
 - [LinkedIn](https://www.linkedin.com/in/jesselittlewood/) profile
-- [Twitter](https://twitter.com/j_littlewood)
-- <a rel="me" href="https://mastodon.online/@jlittlewood">Mastodon</a>
-- [Common Cause Staff Profile & Contact Information](https://www.commoncause.org/staff/jesse-littlewood)
+- [Mastodon](https://mastodon.online/@jlittlewood)
 
 
 ### Email me:
